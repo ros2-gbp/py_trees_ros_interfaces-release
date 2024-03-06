@@ -77,4 +77,5 @@ tracks:
     ros_distro: rolling
     vcs_type: git
     vcs_uri: https://github.com/splintered-reality/py_trees_ros_interfaces
-    version: :{auto}
+    version: 2.1.0
+    version_saved: :{auto}
