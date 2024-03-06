@@ -1,0 +1,12 @@
+Source: ros-rolling-py-trees-ros-interfaces
+Section: misc
+Priority: optional
+Maintainer: Daniel Stonier <d.stonier@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ament-cmake, ament-cmake-copyright <!nocheck>, ament-cmake-cppcheck <!nocheck>, ament-cmake-cpplint <!nocheck>, ament-cmake-flake8 <!nocheck>, ament-cmake-lint-cmake <!nocheck>, ament-cmake-pep257 <!nocheck>, ament-cmake-uncrustify <!nocheck>, ament-cmake-xmllint <!nocheck>, libdiagnostic-msgs-dev, libgeometry-msgs-dev, python3-diagnostic-msgs, python3-geometry-msgs, ros-diagnostic-msgs, ros-geometry-msgs, ros-rolling-action-msgs, ros-rolling-rosidl-default-generators, ros-rolling-unique-identifier-msgs, ros-rolling-ros-workspace, ros-rolling-rosidl-typesupport-fastrtps-c, ros-rolling-rosidl-typesupport-fastrtps-cpp
+Homepage: http://ros.org/wiki/py_trees_ros_interfaces
+Standards-Version: 3.9.2
+
+Package: ros-rolling-py-trees-ros-interfaces
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libdiagnostic-msgs-dev, libgeometry-msgs-dev, python3-diagnostic-msgs, python3-geometry-msgs, ros-diagnostic-msgs, ros-geometry-msgs, ros-rolling-action-msgs, ros-rolling-rosidl-default-runtime, ros-rolling-unique-identifier-msgs, ros-rolling-ros-workspace
+Description: Interfaces used by py_trees_ros and py_trees_ros_tutorials.
