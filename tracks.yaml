@@ -73,11 +73,11 @@ tracks:
     patches: null
     release_inc: '4'
     release_repo_url: null
-    release_tag: :{version}
+    release_tag: 2.1.0
     ros_distro: jazzy
     vcs_type: git
     vcs_uri: https://github.com/splintered-reality/py_trees_ros_interfaces
-    version: :{auto}
+    version: 2.1.0
   rolling:
     actions:
     - bloom-export-upstream :{vcs_local_uri} :{vcs_type} --tag :{release_tag} --display-uri
