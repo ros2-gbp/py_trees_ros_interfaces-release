@@ -1,0 +1,20 @@
+ros-kilted-py-trees-ros-interfaces (2.1.2-1bookworm) bookworm; urgency=high
+
+  * Add generic COMPOSITE enum in Behaviour message type (#16 <https://github.com/splintered-reality/py_trees_ros_interfaces/issues/16>)
+  * Add myself to package maintainers (#15 <https://github.com/splintered-reality/py_trees_ros_interfaces/issues/15>)
+  * add ROS 2 Kilted to README (#14 <https://github.com/splintered-reality/py_trees_ros_interfaces/issues/14>)
+  * Update README to latest ROS versions (#13 <https://github.com/splintered-reality/py_trees_ros_interfaces/issues/13>)
+  * Contributors: Sebastian Castro
+
+ -- "Daniel Stonier" <d.stonier@gmail.com>  Mon, 13 Jul 2026 04:00:00 -0000
+
+ros-kilted-py-trees-ros-interfaces (2.1.1-1bookworm) bookworm; urgency=high
+
+  * Update minimum CMake version
+  * [readme] fix alignment in columns
+  * [readme] update release links
+  * Contributors: Daniel Stonier, Sebastian Castro
+
+ -- "Daniel Stonier" <d.stonier@gmail.com>  Sat, 11 Jan 2025 05:00:00 -0000
+
+
