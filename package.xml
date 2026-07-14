@@ -2,12 +2,13 @@
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
   <name>py_trees_ros_interfaces</name>
-  <version>2.1.1</version>
+  <version>2.1.2</version>
   <description>
     Interfaces used by py_trees_ros and py_trees_ros_tutorials.
   </description>
 
   <maintainer email="d.stonier@gmail.com">Daniel Stonier</maintainer>
+  <maintainer email="sebas.a.castro@gmail.com">Sebastian Castro</maintainer>
 
   <license>BSD</license>
 
