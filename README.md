@@ -1,3 +1,26 @@
+## py_trees_ros_interfaces (humble) - 2.1.2-1
+
+The packages in the `py_trees_ros_interfaces` repository were released into the `humble` distro by running `/usr/bin/bloom-release --rosdistro humble py_trees_ros_interfaces -e` on `Tue, 14 Jul 2026 01:52:12 -0000`
+
+The `py_trees_ros_interfaces` package was released.
+
+Version of package(s) in repository `py_trees_ros_interfaces`:
+
+- upstream repository: https://github.com/splintered-reality/py_trees_ros_interfaces
+- release repository: https://github.com/ros2-gbp/py_trees_ros_interfaces-release.git
+- rosdistro version: `2.1.1-1`
+- old version: `2.1.1-1`
+- new version: `2.1.2-1`
+
+Versions of tools used:
+
+- bloom version: `0.14.3`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## py_trees_ros_interfaces (humble) - 2.1.1-1
 
 The packages in the `py_trees_ros_interfaces` repository were released into the `humble` distro by running `/usr/bin/bloom-release --edit --rosdistro humble py_trees_ros_interfaces` on `Sat, 11 Jan 2025 23:34:52 -0000`
