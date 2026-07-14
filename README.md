@@ -1,3 +1,26 @@
+## py_trees_ros_interfaces (kilted) - 2.1.2-1
+
+The packages in the `py_trees_ros_interfaces` repository were released into the `kilted` distro by running `/usr/bin/bloom-release --rosdistro kilted py_trees_ros_interfaces -e` on `Tue, 14 Jul 2026 01:53:52 -0000`
+
+The `py_trees_ros_interfaces` package was released.
+
+Version of package(s) in repository `py_trees_ros_interfaces`:
+
+- upstream repository: https://github.com/splintered-reality/py_trees_ros_interfaces
+- release repository: https://github.com/ros2-gbp/py_trees_ros_interfaces-release.git
+- rosdistro version: `2.1.1-2`
+- old version: `2.1.1-2`
+- new version: `2.1.2-1`
+
+Versions of tools used:
+
+- bloom version: `0.14.3`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## py_trees_ros_interfaces (jazzy) - 2.1.2-1
 
 The packages in the `py_trees_ros_interfaces` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release --rosdistro jazzy py_trees_ros_interfaces -e` on `Tue, 14 Jul 2026 01:53:02 -0000`
